@@ -24,7 +24,7 @@ matplotlib
 seaborn
 plotly
 You can install these libraries using pip by running the following command:
-pip install pandas numpy matplotlib seaborn plotly
+### pip install pandas numpy matplotlib seaborn plotly
 
 ## Conclusion
 This project has allowed me to apply the skills and knowledge I have gained throughout the IBM Data Analyst Professional Certificate program to a real-world business problem. By analyzing customer behavior and providing insights to the online retailer, I have demonstrated the value of data analysis in optimizing business operations and increasing revenue.
