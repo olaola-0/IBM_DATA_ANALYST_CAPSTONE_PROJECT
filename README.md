@@ -10,19 +10,19 @@ In this project, I have used various data analysis techniques to explore the dat
 ## Project Structure
 The project is structured as follows:
 
-data: This directory contains the dataset used in this project.
-notebooks: This directory contains Jupyter notebooks used for data exploration, analysis, and visualization.
-reports: This directory contains the final report and presentation for the project.
-README.md: This file, which provides an overview of the project.
+**data**: This directory contains the dataset used in this project.
+**notebooks**: This directory contains Jupyter notebooks used for data exploration, analysis, and visualization.
+**reports**: This directory contains the final report and presentation for the project.
+**README.md**: This file, which provides an overview of the project.
 
 ## Requirements
 To run the Jupyter notebooks in this project, you will need to have Python 3 installed on your machine, as well as the following libraries:
 
-pandas
-numpy
-matplotlib
-seaborn
-plotly
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* plotly
 You can install these libraries using pip by running the following command:
 ### pip install pandas numpy matplotlib seaborn plotly
 
