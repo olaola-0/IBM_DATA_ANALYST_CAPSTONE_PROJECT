@@ -1,5 +1,3 @@
 # IBM_DATA_ANALYST_CAPSTONE_PROJECT
 
-## Editing the file
-
-It's a markdown file in this repository.
+## Final project for IBM DATA ANALYST CERTIFICATE
