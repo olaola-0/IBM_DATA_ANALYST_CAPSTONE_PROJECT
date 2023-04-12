@@ -18,6 +18,7 @@ To run the Jupyter notebooks in this project, you will need to have Python 3 ins
 * matplotlib
 * seaborn
 * plotly
+
 You can install these libraries using pip by running the following command:
 ### pip install pandas numpy matplotlib seaborn plotly
 
